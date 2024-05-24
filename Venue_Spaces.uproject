@@ -29,7 +29,7 @@
 		},
 		{
 			"Name": "Atlux",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
