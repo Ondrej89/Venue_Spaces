@@ -30,6 +30,10 @@
 		{
 			"Name": "Atlux",
 			"Enabled": false
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
